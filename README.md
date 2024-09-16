@@ -15,6 +15,7 @@ Team Member-
 - Shubham Jaiswal
 - Siddh Srivastava
 - Sitanshu Mishra
+- Ayush Kumar
 
 # Demo
 
